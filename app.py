@@ -112,8 +112,8 @@ fig1 = px.line(
 
 fig1.update_layout(
     autosize=False,
-    width=500,
-    height=500,
+    width=1250,
+    height=700,
     title_x=0.5,
     xaxis_title=None
 )
